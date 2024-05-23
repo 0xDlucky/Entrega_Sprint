@@ -1,5 +1,10 @@
 # projeto_tray
-
+##Projeto feito com os seguintes membros:
+Silvio de Moraes
+Renan Solano
+Vinicius Sabino
+Matheus Gabriel
+Henrique Sabino
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
